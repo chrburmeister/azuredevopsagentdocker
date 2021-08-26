@@ -1,0 +1,9 @@
+apiVersion: v2
+name: chart
+description: Azure DevOps hosted Agent Linux
+
+type: application
+
+version: "1.0.0"
+
+appVersion: "1.0.0"
